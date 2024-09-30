@@ -23,7 +23,7 @@ public class AreaOfEquilateralTriangle {
     private static double calculateArea(double side) {
         //Math.sqrt(3) computes the square root of 3
         //Math.pow(side, 2) computes the power of side to 2
-        double area = (Math.sqrt(3) /4) *Math.pow(side, 2);
+        double area = (Math.sqrt(3) /4) * Math.pow(side, 2);
 
         //return the calculated area
         return area;
